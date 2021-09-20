@@ -28,3 +28,23 @@ I used the following implementation of StyleGAN2 [stylegan2_pytorch](https://git
 
 ## Results
 ![Results](https://i.imgur.com/bca5Nu7.png)
+
+## GIF versions of dragons
+![GIF1](https://i.imgur.com/D9g33LG.gif)
+![GIF2](https://i.imgur.com/2Yfi2pB.gif)
+
+## How to run locally
+1. Install requirements.txt
+2. Run app.py with Python
+3. Use the link of localhost to access the app
+
+## How to use
+1. Click the Generate button
+2. Change the values of sliders below to change the appearance of dragon
+3. Click Generate again
+4. Enjoy the animation of the generated dragon
+
+## App interface
+The interface after generating a dragon should look like this: 
+
+![Image of interface](https://i.imgur.com/Ss1NEc0.jpg)
